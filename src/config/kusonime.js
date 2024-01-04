@@ -1,2 +1,2 @@
-const KUSONIME_API = "https://kusonime-scrapper.glitch.me/api";
+const KUSONIME_API = "https://rizaapi.vercel.app";
 export default KUSONIME_API;
